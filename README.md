@@ -19,6 +19,7 @@
 <a href="https://linkedin.com/in/gomezvargasdavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david gómez vargas" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dgomez-v&show_icons=true&locale=en" alt="dgomez-v" /></p>
+
+<h1>Projetcs Graph<h1>
 
 <img src="https://i.ibb.co/6N6Nwpv/holy-grafico.png">
