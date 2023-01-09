@@ -20,3 +20,5 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dgomez-v&show_icons=true&locale=en" alt="dgomez-v" /></p>
+
+<img src="https://i.ibb.co/6N6Nwpv/holy-grafico.png">
