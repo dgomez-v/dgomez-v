@@ -1,11 +1,10 @@
 <h1 align="center">Hello! <p style="font-size:100px">&#129409;</p> David here</h1>
 
-<h3 align="center">Im a 42 Málaga Student and junior programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgomez-v&label=Profile%20views&color=0e75b6&style=flat" alt="dgomez-v" /> </p>
 
 
-- 🌱 I’m currently learning **C, Python and cybersecurity**
+- 🌱 I’m currently learning **Java, Python and cybersecurity**
 
 - 📫 How to reach me: **dav.dgv.11@gmail.com**
 
